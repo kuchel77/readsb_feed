@@ -4,7 +4,7 @@ import logging
 from typing import Optional
 import voluptuous as vol
 
-from aio_readadsb import ReaddsbFeedManager
+from aio_readsb import ReadsbFeedManager
 
 from homeassistant.components.geo_location import PLATFORM_SCHEMA, GeolocationEvent
 from homeassistant.const import (
