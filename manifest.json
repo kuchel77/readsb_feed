@@ -1,0 +1,9 @@
+{
+  "domain": "readsb_feed",
+  "name": "readsb Feed",
+  "documentation": "https://www.github.com/kuchel77/readsb_feed",
+  "requirements": ["aio_readsb>=0.1"],
+  "dependencies": [],
+  "codeowners": ["@kuchel77"],
+  "version": "0.1"
+}
